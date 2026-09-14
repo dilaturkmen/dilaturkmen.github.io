@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Dila Türkmen favicon</title>
+  <defs>
+    <clipPath id="icon-shape">
+      <rect width="64" height="64" rx="12"/>
+    </clipPath>
+  </defs>
+
+  <rect width="64" height="64" rx="12" fill="#182a31"/>
+
+  <!-- Continuous white D beneath full-icon translucent shade fields. -->
+  <path d="M18 14h12c13 0 22 7 22 18s-9 18-22 18H18V14Zm10 8v20h3c8 0 12-3.8 12-10s-4-10-12-10h-3Z" fill="#f7f9fb"/>
+
+  <g clip-path="url(#icon-shape)">
+    <rect x="0" y="0" width="20.5" height="64" fill="#07141a" fill-opacity=".36"/>
+    <!-- The uncovered middle area retains the original background and white D. -->
+    <rect x="37.5" y="0" width="8" height="64" fill="#d9364a" fill-opacity=".84"/>
+    <rect x="45.5" y="0" width="18.5" height="64" fill="#ffffff" fill-opacity=".20"/>
+  </g>
+</svg>
